@@ -6,7 +6,7 @@ Write a function that simply repeats the string a given number of times:
 repeatString('hey', 3) // returns 'heyheyhey'
 ```
 
-This function will take two arguments, `string` and `num`.
+[x] This function will take two arguments, `string` and `num`. 
 
 *Note:* The exercises after this one will not have arguments provided as this one does - you will need to provide them yourself from now on. So read each exercise's README carefully to see what kinds of arguments will be expected.
 
